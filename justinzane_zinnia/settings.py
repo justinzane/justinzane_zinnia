@@ -65,6 +65,8 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.admindocs',
     'django.contrib.sitemaps',
+    'django.contrib.comments',
+    'django.contrib.admin',
     'django_bitly',
     'django_xmlrpc',
     'tweepy',
